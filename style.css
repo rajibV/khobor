@@ -1,0 +1,88 @@
+/*custom css*/
+.banner{
+    height: 120px;
+    width: 100%;
+    background: #eee;
+}
+.facebook-timeline i{
+    color: #4267B2;
+    font-size: 40px;
+}
+.twitter-timeline i{
+    color: #1DA1F2;
+    font-size: 40px;
+}
+.youtube-timeline i{
+    color: #FF0000;
+    font-size: 40px;
+}
+.input-group{width: 100%;}
+.navbar { min-height: auto;}
+
+.navbar-inverse {background-color: #d1c9c9;}
+.social_media{float: right;border-top: 1px solid #ccc;border-bottom: 1px solid #ccc;border-right: 1px solid #ccc;height: 31px;}
+.navbar-toggle{background-color: red;}
+.single_news_area{margin: 5px 0; padding:10px 0; border: 1px solid #ddd;}
+.single_news_area .single_image img{width: 100%}
+.single_news_area .feature{height: 80px}
+.single_news_area .media{margin-top: 0;}
+.single_news_area .single_news h2{margin: 0;font-size: 20px;letter-spacing: -0.5px;line-height: 1.3em;margin-bottom: 4px;font-weight:bold;}
+.single_news_area .single_news .date {color: #aaa;font-style: italic;margin-bottom: 4px;margin-bottom: 10px;}
+.single_news_area .single_news strong {float:left; padding-right:5px}
+.single_news_area .single_news .read_more {color: #999;padding-left: 12px;font-size: 14px;float:right;}
+.staff{height: 250px}
+.staff img{width: 100%;height: 170px}
+.staff h4{font-family: serif;}
+.text-danger{margin:0;color:red;font-size:18px;}
+.firstnewsarea .firstNews,.firstnewsarea .topnews{margin: 0;}
+.firstnewsarea .blog {height: 350px;border-bottom: 1px solid #ccc;margin-bottom: 20px; overflow:hidden; }
+.firstnewsarea .firstNews img{height: 200px;width: 350px;margin: 0 auto;}
+.firstnewsarea .firstNews h2{padding: 10px 0;margin: inherit;font-size: 22px;line-height: 25px;font-weight: bold;}
+.firstnewsarea .topnews h2{margin-bottom: 10px;}
+.firstnewsarea img{width: 100%;}
+.firstnewsarea .double h2{font-size: 22px;font-weight: bold;margin-top:5px;}
+.firstnewsarea .double .media:first-child{margin-top: 15px}
+.firstnewsarea .double .news{padding: 0}
+.right_top{background: #eee;padding:0 10px}
+.right_top h2 span{background: #6b717b;color: #fff}
+.right_top .ask{text-align: center;}
+.right_top b{float:left;padding-right:5px;}
+.footer_widget img{width: 100%}
+.translate{width: 100px;}
+.donate{width:70px}
+.translate a,.donate a{width: 100% !important;padding: 4px 6px;background-color: #354267;color: #fff;font-family: sans-serif, solaimanLipi;font-size: 17px;}
+.donate a{padding: 3px;font-size: 18px}
+.english a{font-size: 13px; padding: 6px 4px}
+.search{width: 280px;float: right;padding-top:3px}
+.search-query {width: 215px !important;height: 25px; padding: 0px 6px}
+.btn-query {float: right;padding: 3px 10px}
+.search p{margin:0px}
+.askhead{border: 1px solid #555;padding: 5px 0}
+.ask_page img{max-height: 180px;}
+.ask_form h2{color: #000;cursor: pointer;font-weight: bold}
+.mission h2{font-weight: bold;margin-bottom: 20px}
+.mission ul{list-style: inherit;font-size: 22px}
+.mission ul li{font-size: 15px}
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus{background: #fff;color: #000}
+.text_news{font-size:16px;text-align:justify;}
+.text_news img{display: none}
+.text_news ul {margin-left:20px !important;}
+.text_news ul li {padding:2px 0; border-bottom:1px solid #bbb;}
+.text_news ul li a{font-size:18px;}
+.single_page img{max-width: 100%}
+
+@media only screen and (max-width: 500px) {
+   .add_banner {
+        width:282px;
+    }
+  #header{
+	margin-top: 10px;
+  }
+ .social_link{
+      width:inherit;
+ }
+.single_page_content{border-bottom:inherit;}
+.single_page > h2{font-size:21px;}
+#navArea{padding:0 20px;}
+
+}

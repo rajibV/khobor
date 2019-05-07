@@ -1,0 +1,28 @@
+.scrollToTop{background-color:#fff; color:#000}
+.scrollToTop:hover, .scrollToTop:focus{color:#D4100D; border:1px solid #D4100D}
+.logo > span{color:#D4100D}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus{background-color:#fff}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus{background-color:#fff}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus{background-color:#fff}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{background-color:#D4100D}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{background-color:#D4100D}
+.latest_newsarea span{background:none repeat scroll 0 0 #D4100D}
+.latest_post > h2 span{background:none repeat scroll 0 0 #ddd}
+.single_post_content > h2 span{background:none repeat scroll 0 0 #ddd}
+.single_sidebar > h2 span{ background:none repeat scroll 0 0 #ddd}
+.bsbig_fig figcaption a:hover{color:#D4100D}
+.spost_nav .media-body > a:hover{color:#ccc}
+.footer_widget > h2:hover{color:#000}
+.tag_nav li a:hover{color:#000; border-color:#000}
+.copyright a:hover{color:#D4100D}
+.post_commentbox a:hover, .post_commentbox span:hover{color:#D4100D}
+.breadcrumb{border-left:5px solid #D4100D}
+.single_page_content ul li:before{background-color:#ddd}
+.nav-slit .icon-wrap{background-color:#496E2D}
+.nav-slit h3{background:#D4100D}
+.error_page > h3{color:#D4100D}
+.error_page > span{background:none repeat scroll 0 0 #496E2D}
+.error_page > a{background-color:#496E2D}
+.contact_area > h2{background-color:#eee}
+.contact_form input[type="submit"]{background-color:#fff}
+.contact_form input[type="submit"]:hover{color:#000;border: 1px solid #aaa;}
